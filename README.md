@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Venelin Bekyarov
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Java Fundamentals @ SoftUni
-- 💞️ I’m looking to collaborate on Java projects
+- 👋 Hi, I’m Ven Bekyarov
+- 👀 I’m interested in Flutter/Dart, Android, Java and Python
+- 🌱 I’m currently learning Software Engineering @ Constantine of Preslav University of Shumen
+- 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me: venbeks@gmail.com
 
 <!---
