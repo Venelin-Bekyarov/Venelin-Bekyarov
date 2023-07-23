@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ven Bekyarov
 - 👀 I’m interested in Flutter/Dart, Android, Java and Python
-- 🌱 I’m currently learning Software Engineering @ Constantine of Preslav University of Shumen
-- 💞️ I’m looking to collaborate on Flutter projects
+- 🌱 I’m currently learning Software Engineering @ Trakia University
+- 💞️ I’m looking to collaborate on JAVA, Android and Flutter projects
 - 📫 How to reach me: venbeks@gmail.com
 
 <!---
